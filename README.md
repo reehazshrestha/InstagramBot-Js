@@ -18,8 +18,8 @@ This is a simple Node.js script that automates posting photos to Instagram using
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/instagram-photo-bot.git
-   cd instagram-photo-bot
+   git clone https://github.com/reehazshrestha/InstagramBot-Js.git
+   cd InstagramBot-Js
    ```
 
 2. Install the required dependencies:
